@@ -11,9 +11,14 @@ public class TesterFinch{
         bird.setTurn("L", 90, 50);
         bird.setMove("F", 60, 100);
         bird.setTurn("R", 90, 60);
-        bird.setMove("F", 20, 50);
+        bird.setMove("F", 25, 50);
         bird.setTurn("R", 90, 50);
-
+        bird.setMove("F", 65, 100);
+        bird.setTurn("L", 90, 50);
+        bird.setMove("F", 25, 60);
+        bird.setTurn("L", 90, 60);
+        bird.setMove("F", 70, 100);
+        bird.setTurn("R",90, 60);
     }
 
 
